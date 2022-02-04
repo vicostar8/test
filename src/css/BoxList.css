@@ -1,0 +1,6 @@
+.BoxList-Boxes {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  background-color: lightgray;
+}
